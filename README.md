@@ -3,7 +3,7 @@
 ## Stage 0
 
 <details>
- <summary> __Git & Version Control__</summary>
+ <summary> Git & Version Control</summary>
 
 #### I learned a lot of new git commands :
 
@@ -17,7 +17,7 @@ Others I knew and used before.
 </details>
 
 <details>
-<summary> __Linux CLI, and HTTP__</summary>
+<summary> Linux CLI, and HTTP</summary>
 
 #### I learned a lot of new commands to Linux, and also interesting information about HTTP
 
@@ -29,7 +29,7 @@ Others I knew and used before.
 </details>
 
 <details>
-<summary>__Git Collaboration__</summary>
+<summary>Git Collaboration</summary>
 
 #### Lots of new information about git control
 
