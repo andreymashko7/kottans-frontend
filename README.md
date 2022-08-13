@@ -3,9 +3,9 @@
 ## Stage 0
 
 <details>
-<summary> Git & Version Control</summary>
+ <summary> __Git & Version Control__</summary>
 
-## I learned a lot of new git commands :
+#### I learned a lot of new git commands :
 
 `git rebase`
 `git cherry-pick`
@@ -17,9 +17,9 @@ Others I knew and used before.
 </details>
 
 <details>
-<summary> Linux CLI, and HTTP</summary>
+<summary> __Linux CLI, and HTTP__</summary>
 
-## I learned a lot of new commands to Linux, and also interesting information about HTTP
+#### I learned a lot of new commands to Linux, and also interesting information about HTTP
 
 ![screenshot_1](./task_linux_cli/quize_1.png)
 ![screenshot_2](./task_linux_cli/quize_2.png)
@@ -29,9 +29,9 @@ Others I knew and used before.
 </details>
 
 <details>
-<summary> Git Collaboration</summary>
+<summary>__Git Collaboration__</summary>
 
-## Lots of new information about git control
+#### Lots of new information about git control
 
 ![git-task](./task_git_collaboration/Screenshot_2.png)
 ![repo-task](./task_git_collaboration/Screenshot_4.png)
