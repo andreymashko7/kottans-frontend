@@ -37,3 +37,14 @@ Others I knew and used before.
 ![repo-task](./task_git_collaboration/Screenshot_4.png)
 
 </details>
+
+<details>
+<summary>Intro to HTML and CSS</summary>
+
+#### Interesting course at codecademy, many useful exercises. I refreshed my memory.
+
+![intro_html](./task_html_css_intro/intro_html5_week-1.png)
+![intro_css](./task_html_css_intro/intro_css3_week-2.png)
+![codecademy_html+css](./task_html_css_intro/codecademy_html-css.png)
+
+</details>
