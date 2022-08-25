@@ -7,8 +7,8 @@
 -   [x] **GitHub and Collaboration**
 -   [x] **Intro to HTML & CSS**
 -   [x] **Responsive Web Design**
--   [ ] **HTML & CSS Practice**
--   [ ] **JavaScript Basics**
+-   [x] **HTML & CSS Practice**
+-   [x] **JavaScript Basics**
 -   [ ] **Document Object Model - practice**
 -   [ ] **Building a Tiny JS World - practice**
 -   [ ] **Object oriented JS - practice**
@@ -79,5 +79,34 @@
 > I learned new information about grid layout,
 > it was difficult to understand the new layout technology.
 > I hope that knowledge about grids will help me in the future.
+
+</details>
+
+<details>
+
+<details>
+
+<summary>HTML and CSS practice</summary>
+
+[Demo](https://andreymashko7.github.io/hooli-style-popup/)
+
+> Interesting information on checkbox design and hiding
+
+</details>
+
+<summary>JS Basics</summary>
+
+![basic-js](./task_js_basics/Basic-javascript.png)
+
+> good memory training
+
+![basic-data-structure](./task_js_basics/Basic-Data-Structures.png)
+![basic-algorithm](./task_js_basics/Basic-Algorithm-Scripting.png)
+![algorithm-scripting](./task_js_basics/algorithm-script-challenges.png)
+
+> difficult exercises, some problems with regex
+
+![functional-programming](./task_js_basics/functional-programming.png)
+![ES6](./task_js_basics/ES6.png)
 
 </details>
