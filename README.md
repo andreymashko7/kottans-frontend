@@ -84,8 +84,6 @@
 
 <details>
 
-<details>
-
 <summary>HTML and CSS practice</summary>
 
 [Demo](https://andreymashko7.github.io/hooli-style-popup/)
@@ -94,6 +92,8 @@
 
 </details>
 
+<details>
+
 <summary>JS Basics</summary>
 
 ![basic-js](./task_js_basics/Basic-javascript.png)
@@ -101,12 +101,15 @@
 > good memory training
 
 ![basic-data-structure](./task_js_basics/Basic-Data-Structures.png)
+
 ![basic-algorithm](./task_js_basics/Basic-Algorithm-Scripting.png)
+
 ![algorithm-scripting](./task_js_basics/algorithm-script-challenges.png)
 
 > difficult exercises, some problems with regex
 
 ![functional-programming](./task_js_basics/functional-programming.png)
+
 ![ES6](./task_js_basics/ES6.png)
 
 </details>
