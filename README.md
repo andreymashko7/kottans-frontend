@@ -9,8 +9,8 @@
 -   [x] **Responsive Web Design**
 -   [x] **HTML & CSS Practice**
 -   [x] **JavaScript Basics**
--   [ ] **Document Object Model - practice**
--   [ ] **Building a Tiny JS World - practice**
+-   [x] **Document Object Model - practice**
+-   [x] **Building a Tiny JS World - practice**
 -   [ ] **Object oriented JS - practice**
 -   [ ] **OOP exercise - practice**
 -   [ ] **Offline Web Applications - optional**
@@ -112,4 +112,21 @@
 
 ![ES6](./task_js_basics/ES6.png)
 
+</details>
+
+<details>
+
+<summary>DOM</summary>
+
+[Demo](https://andreymashko7.github.io/memory-game/)
+
+[Code](https://github.com/andreymashko7/memory-game)
+</details>
+
+<details>
+<summary>Building a Tiny JS World</summary>
+
+[Demo](https://andreymashko7.github.io/a-tiny-JS-world/)
+
+[Code](https://github.com/andreymashko7/a-tiny-JS-world/blob/gh-pages/index.js)
 </details>
