@@ -118,9 +118,9 @@
 
 <summary>DOM</summary>
 
-[Demo](https://andreymashko7.github.io/memory-game/)
+[Demo](https://andreymashko7.github.io/side-menu/#)
 
-[Code](https://github.com/andreymashko7/memory-game)
+[Code](https://github.com/andreymashko7/side-menu)
 </details>
 
 <details>
