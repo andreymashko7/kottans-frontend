@@ -11,7 +11,7 @@
 -   [x] **JavaScript Basics**
 -   [x] **Document Object Model - practice**
 -   [x] **Building a Tiny JS World - practice**
--   [ ] **Object oriented JS - practice**
+-   [x] **Object oriented JS - practice**
 -   [ ] **OOP exercise - practice**
 -   [ ] **Offline Web Applications - optional**
 -   [ ] **Memory pair game — real project!**
@@ -121,6 +121,7 @@
 [Demo](https://andreymashko7.github.io/side-menu/#)
 
 [Code](https://github.com/andreymashko7/side-menu)
+
 </details>
 
 <details>
@@ -129,4 +130,14 @@
 [Demo](https://andreymashko7.github.io/a-tiny-JS-world/)
 
 [Code](https://github.com/andreymashko7/a-tiny-JS-world/blob/gh-pages/index.js)
+
+</details>
+
+<details>
+<summary>Object Oriented JS</summary>
+
+[Demo](https://andreymashko7.github.io/frontend-nanodegree-arcade-game/)
+
+[Code](https://github.com/andreymashko7/frontend-nanodegree-arcade-game)
+
 </details>
