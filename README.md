@@ -141,3 +141,12 @@
 [Code](https://github.com/andreymashko7/frontend-nanodegree-arcade-game)
 
 </details>
+
+<details>
+<summary>OOP Exercise</summary>
+
+[Demo](https://andreymashko7.github.io/a-tiny-JS-world/)
+
+[Code](https://github.com/andreymashko7/a-tiny-JS-world)
+
+</details>
